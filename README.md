@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IlhomBek-F?tab=repositories](https://github.com/IlhomBek-F?tab=repositories)
 
-- 💬 Ask me about **angular, react**
-
 - 📫 How to reach me **cleancode1221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
