@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilhomjon</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 <p align="center">🌱 I’m currently learning **Go**</p>
 
