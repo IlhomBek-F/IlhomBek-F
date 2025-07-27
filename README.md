@@ -17,7 +17,6 @@
 </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhombek-f&show_icons=true&locale=en&layout=compact" alt="ilhombek-f" /></p>
 <h3 align="center">💻 Contributions never go to waste! ✨</h3>
 <p align="center"><img src="https://raw.githubusercontent.com/IlhomBek-F/IlhomBek-F/refs/heads/output/github-snake-dark.svg" /></p>
 
