@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilhomjon</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-<p align="center">🌱 I’m currently learning <img src="https://go.dev/images/go-logo-blue.svg" width="40" height="15" alt="go_logo" /></p>
-
 <p align="center"> 📫 How to reach me **cleancode1221@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
